@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+requests
+lxml
+tldextract
+fpdf2
+python-dotenv
+
